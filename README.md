@@ -1,2 +1,2 @@
 # hello-world
-#1 slettes
+#1 kan slettes - kun github-trening
